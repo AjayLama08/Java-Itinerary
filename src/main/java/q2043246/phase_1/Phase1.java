@@ -17,7 +17,7 @@ public class Phase1 {
         Activity hikingActivity = new Activity("Hiking", "HIK-01", "Hike for health", 14.50, "Roseberry Top", LocalDateTime.now(), "3 hours", false);
         Activity boatingActivity = new Activity("Boating", "BOA-02", "Explore the beauty of the North Sea on a boat", 15.00, "North Sea", LocalDateTime.now(), "2 hours", true);
         Activity artActivity = new Activity("Art Class", "ART-03", "Learn the basics of how to art", 11.50, "Middlesbrough Art House", LocalDateTime.now(), "1 hour", false);
-        //Ajay Lama
+      
         //Different activity add ons objects are created
         ActivityAddOns insuranceAddOn = new ActivityAddOns("Insurance", "INR", 15.00);
         ActivityAddOns photographyAddOn = new ActivityAddOns("Photography", "PTG", 8.00);
